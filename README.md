@@ -5,14 +5,6 @@
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No installation required - runs entirely in the browser
 
-### Installation
-
-1. Clone or download this repository
-2. Open `index.html` in your web browser
-3. The dashboard will load with sample transit data
-
-## Usage
-
 ### Filtering Transit Modes
 - Use the **Mode Selector** checkboxes on the left panel to show/hide:
   - Bus routes and stops
