@@ -1,7 +1,5 @@
 
-## Getting Started
-
-### Prerequisites
+### Summary
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No installation required - runs entirely in the browser
 
@@ -31,27 +29,6 @@
 - Click **About** to learn more about the dashboard
 - Click **Team** to see project team information
 - Click **Project Goal** to understand the project's mission
-
-## Technologies Used
-
-- **MapLibre GL** - Open-source mapping library
-- **Mapbox Satellite API** - High-quality satellite imagery
-- **HTML5** - Page structure
-- **CSS3** - Modern styling with gradients and animations
-- **Vanilla JavaScript** - Interactivity and map functionality
-- **GeoJSON** - Transit data format
-
-## Data
-
-Currently uses sample transit data for demonstration. To integrate real Seattle transit data:
-
-1. Replace the `transitData` object in `js/app.js` with actual GeoJSON data
-2. Connect to transit APIs such as:
-   - King County Metro
-   - Sound Transit
-   - Seattle Department of Transportation (SDOT)
-
-## Customization
 
 ### Changing Map Colors
 Edit the `paint` properties in `addTransitLayers()` function in `js/app.js`:
